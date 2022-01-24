@@ -16,7 +16,6 @@ export default function Header() {
       <img width="38" src={logoSvg} alt="Pizza logo" />
       <div>
        <h1>Почти Domino's Pizza</h1>
-       <h1>Почти Domino's Pizza</h1>
        <p>Пицца для Богов</p>
       </div>
      </div>
