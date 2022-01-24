@@ -5,17 +5,6 @@ export const setLoaded = (payload) => ({
  payload,
 });
 
-/*export const fetchPizzas = (category, sortBy) => (dispatch) => {
- dispatch(setLoaded(false));
- fetch(
-  `http://localhost:3001/pizzas?${
-   category !== null ? `category=${category}` : ''
-  }&_sort=${sortBy.type}&_order=${sortBy}`
- ).then((res) => {
-  res.json().then((card) => dispatch(setPizzas(card)));
- });
-};*/
-
 export const fetchPizzas = (sortBy, category) => (dispatch) => {
  dispatch(setLoaded(false));
  axios

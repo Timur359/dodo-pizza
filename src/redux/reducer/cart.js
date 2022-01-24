@@ -1,5 +1,3 @@
-import { Simulate } from 'react-dom/cjs/react-dom-test-utils.production.min';
-
 const initialState = {
  items: {},
  totalPrice: 0,
