@@ -25,6 +25,7 @@
 - HTML / SCSS
 - JavaScript/React/Redux
 - API/Axios
+- Node.js
 - Git
 
 ---
