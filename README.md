@@ -25,7 +25,10 @@
 - HTML / SCSS
 - JavaScript/React/Redux
 - API/Axios
-- Node.js
 - Git
+
+---
+
+Для запуска приложения необходимо прописать "npm run dev"
 
 ---
